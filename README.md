@@ -6,7 +6,7 @@
 
 Text editior application. The editor reads javascript syntax, works offline, can be installed, and follows progressive web application guidelines
 
-My main motivation for this project is 
+My main motivation for this project is convenience
 
 ## Table of Contents 
 
